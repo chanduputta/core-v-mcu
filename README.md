@@ -1,6 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Documentation Status](https://readthedocs.org/projects/core-v-mcu/badge/?version=latest)](https://core-v-mcu.readthedocs.io/en/latest/?badge=latest)
-# Repo will be public only till my interview process is finished
 # CORE-V MCU
 
 CORE-V MCU originated from PULPissimo \[[1](https://ieeexplore.ieee.org/abstract/document/8640145)\], \[[2](https://ieeexplore.ieee.org/document/9369856)\],
